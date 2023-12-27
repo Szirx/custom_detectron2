@@ -21,7 +21,7 @@ Project Organization
       │   └── instances.json            <- instances for dataset
       ├── notebooks/
       │   └── Custom_Detectron2.ipynb   <- notebook
-      └── src/
+      ├── src/
       │   └── inference/
       │      └── predict.py             <- Predictor
       │   └── train/
